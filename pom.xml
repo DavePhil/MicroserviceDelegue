@@ -101,6 +101,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>microdelegue</finalName>
     </build>
 
 
