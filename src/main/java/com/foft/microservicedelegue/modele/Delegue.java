@@ -18,6 +18,7 @@ public class Delegue {
     private String matricule;
     private String password;
     private String photo;
+    private Integer idClasse;
 
     public Delegue() {
         super();
